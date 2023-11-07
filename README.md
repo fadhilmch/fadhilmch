@@ -14,8 +14,6 @@ class Fadhilmch:
 
   def get_skills(self):
     return ["Python", "Go", "JavaScript", "TypeScript", "Kotlin", "Java"]
-      
-}
 ```
 ### 👨🏻‍💻 About Me
 - 💻 I'm a **Sr. Machine Learning Engineer** & **Software Engineer** at `Traveloka`
