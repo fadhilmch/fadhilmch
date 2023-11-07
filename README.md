@@ -1,29 +1,45 @@
-### Hello, World! 👋
+## Hello, World! 👋 
 
-I'm Fadhil, a passionate Senior Machine Learning Engineer and Experimentation Platform Engineer, with a diverse background spanning various industries. 
 
-🚀 My Mission:
-I'm on a mission to drive innovation and make a real-world impact by leveraging the power of data-driven decision-making and cutting-edge technology. I specialize in Machine Learning, Software Engineering, Data Science, and Experimentation Platforms.
+```python
+class Fadhilmch:
+  def __init__(self):
+    self.nickname = "Fadhil" | "Fadel"
+    self.origin = "🇮🇩"
 
-👨‍💻 What I Do:
-- Develop and deploy machine learning models that solve complex problems.
-- Create robust software architecture and cloud solutions.
-- Gain insights through data analysis.
-- Optimize product development through data-driven experimentation.
-- Foster innovation and progress across industries.
+  def role(self):
+    MachineLearningEngineer()
+    DataScientist()
+    SoftwareEngineer()
 
-🔮 My Vision:
-I aspire to lead AI projects that shape the future of technology, advance data-driven decision-making across industries, and mentor the next generation of engineers and data scientists.
+  def get_skills(self):
+    return ["Python", "Go", "JavaScript", "TypeScript", "Kotlin", "Java"]
+      
+}
+```
+### 👨🏻‍💻 About Me
+- 💻 I'm a **Sr. Machine Learning Engineer** & **Software Engineer** at `Traveloka`
+- 📚 Pursued **MSc** in **Machine Learning** in `KTH Royal Institute of Technology, Sweden`
+- 💡 Founder of **Icarus Virtual Sports** Platform
+- 👨‍💻 Former **Machine Learning Engineer Intern** at `Spotify`
 
-🌍 Let's Connect:
-Looking for collaboration or innovation in the world of Machine Learning, AI, and technology? Feel free to connect with me here on GitHub and embark on a journey of transformation.
+### 🚀 What I Do
+- 🏗️ Build **Experimentation Platform** to support data-driven culture & decision-making.
+- 🎰 Develope **Multi-armed Bandits Model** for optimizing ML models deployment & experimentation.
+- 🌍 Explore **Kubeflow Pipeline** to support ML models lifecycle.
+- 🧪 Develop and deploy **machine learning models** to support business needs. 
+- 🏛️ Create **robust software architecture** and **cloud solutions**.
+- 💡 Gain **insights** through data analysis & data exploration.
+- 🚀 Optimize **product development** through data-driven experimentation.
+- 🌱 Foster **innovation** with the use of AI and data-driven decision-making. 
 
-📫 Get in Touch:
-- LinkedIn: [Fadhil Mochammad](https://www.linkedin.com/in/fadhilmch/)
-- Email: [fadhil.mochammad1095@gmail.com](mailto:fadhil.mochammad1095@gmail.com)
+<h4>🌍 Let's Connect!</h4>
 
-Let's make an impact together! 💡
-
+[![Linkedin Badge](https://img.shields.io/badge/-fadhilmch-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fadhilmch/)](https://www.linkedin.com/in/fadhilmch/)
+[![GitHub Fadhilmch](https://img.shields.io/github/followers/fadhilmch?label=follow&style=social)](https://github.com/fadhilmch)
+[![Instagram Badge](https://img.shields.io/badge/-fadhilmch-DD0031?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/fadhilmch/)](https://www.linkedin.com/in/fadhilmch/)
+![Twitter Follow](https://img.shields.io/twitter/follow/boltzmannmach?style=social)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fadhil.mochammad1095@gmail.com)](mailto:fadhil.mochammad1095@gmail.com)
 
 
 
