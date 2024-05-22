@@ -16,20 +16,20 @@ class Fadhilmch:
     return ["Python", "Go", "JavaScript", "TypeScript", "Kotlin", "Java"]
 ```
 ### 👨🏻‍💻 About Me
-- 💻 I'm a **Sr. Machine Learning Engineer** & **Software Engineer** at `Traveloka`
-- 📚 Pursued **MSc** in **Machine Learning** in `KTH Royal Institute of Technology, Sweden`
-- 💡 Founder of **Icarus Virtual Sports** Platform
-- 👨‍💻 Former **Machine Learning Engineer Intern** at `Spotify`
+- 💻 A **Sr. Machine Learning Engineer** & **Software Engineer** at `Traveloka`
+- 📚 Took my love for **Machine Learning** to the next level with an **MSc** from `KTH Royal Institute of Technology, Sweden`
+- 💡 Got my entrepreneurial hat on as the Founder of **Icarus Virtual Sports** Platform and some small SMEs. 
+- 🎸 Spent some rad time before as **Machine Learning Engineer Intern** at `Spotify`
 
 ### 🚀 What I Do
-- 🏗️ Build **Experimentation Platform** to support data-driven culture & decision-making.
-- 🎰 Develope **Multi-armed Bandits Model** for optimizing ML models deployment & experimentation.
-- 🌍 Explore **Kubeflow Pipeline** to support ML models lifecycle.
-- 🧪 Develop and deploy **machine learning models** to support business needs. 
-- 🏛️ Create **robust software architecture** and **cloud solutions**.
-- 💡 Gain **insights** through data analysis & data exploration.
-- 🚀 Optimize **product development** through data-driven experimentation.
-- 🌱 Foster **innovation** with the use of AI and data-driven decision-making. 
+- 🏗️ Building **Experimentation Platform** to fuel the data-driven culture & decision-making.
+- 🎰 Developing **Multi-armed Bandits Model** for optimizing ML models deployment & experimentation.
+- 🌍 Exploring **Kubeflow Pipeline** to support ML models lifecycle.
+- 🧪 Crafting and deploying **machine learning models** to support business needs. 
+- 🏛️ Creating **robust software architecture** and **cloud solutions**.
+- 💡 Digging deep into data to pull out valuable **insights**.
+- 🚀 Optimizing **product development** through data-driven experimentation.
+- 🌱 Spreading the **innovation** with the power of AI and data-driven decision-making. 
 
 <h4>🌍 Let's Connect!</h4>
 
