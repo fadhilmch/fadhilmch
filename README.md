@@ -17,7 +17,7 @@ class Fadhilmch:
 ```
 ### 👨🏻‍💻 About Me
 - 💻 A **Sr. Machine Learning Engineer** & **Software Engineer** at `Traveloka`
-- 📚 Took my love for **Machine Learning** to the next level with an **MSc** from `KTH Royal Institute of Technology, Sweden`
+- 📚 Amplified my passion in **Machine Learning** with an **MSc** from `KTH Royal Institute of Technology, Sweden`
 - 💡 Got my entrepreneurial hat on as the Founder of **Icarus Virtual Sports** Platform and some small SMEs. 
 - 🎸 Spent some rad time before as **Machine Learning Engineer Intern** at `Spotify`
 
