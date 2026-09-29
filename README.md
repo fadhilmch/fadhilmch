@@ -1,14 +1,18 @@
 <div align="center">
-  <h1>Hello World! I'm Fadhil 👋</h1>
-  <p><strong>Machine Learning Engineer · ML Platforms · Agentic systems · Production Software</strong></p>
+  <h1>Hi, I'm Fadhil 👋</h1>
+  <p><strong>Machine learning engineer · AI agents · ML platforms · experimentation</strong></p>
+  <p>Stockholm · originally from Indonesia 🇮🇩 · <a href="https://fadhilmch.github.io">fadhilmch.github.io</a></p>
 </div>
+
+I like the part of machine learning that starts after the demo: making the system useful,
+measurable, and reliable enough to keep running.
 
 ```python
 @agent(id="fadhilmch", based_in="Stockholm 🇸🇪", roots="Indonesia 🇮🇩")
 class Fadhil(MachineLearningEngineer):
     """Ships the model, then keeps it alive."""
 
-    toolkit = [Python, Go, JS, K8S, Kubeflow Pipeline, Azure, GCP]
+    toolkit = [Python, Go, Kubernetes, Kubeflow, Azure, GoogleCloud]
 
     def solve(self, problem):
         while not problem.is_clear:
@@ -22,47 +26,40 @@ class Fadhil(MachineLearningEngineer):
 
     def on_error(self, error):
         return self.learn(error)  # production is where the interesting bugs live
-
 ```
-### 👨🏻‍💻 About Me
-- 💻 A **Machine Learning Engineer** & **Software Engineer** at `Electrolux`
-- 📚 Amplified my passion in **Machine Learning** with an **MSc** from `KTH Royal Institute of Technology, Sweden`
-- 💡 Got my entrepreneurial hat on as the Founder of **Icarus Virtual Sports** Platform and some small SMEs. 
-- 🎸 Spent some rad time before as **Machine Learning Engineer Intern** at `Spotify`
 
-### 🚀 What I Do
-- 🤖 Building **agentic workflow and multi-agent system** for business process improvements.
-- 🏗️ Building **Experimentation Platform** to fuel the data-driven culture & decision-making.
-- 🎰 Developing **Multi-armed Bandits Model** for optimizing ML models deployment & experimentation.
-- 🌍 Exploring **Kubeflow Pipeline** to support ML models lifecycle.
-- 🧪 Crafting and deploying **machine learning models** to support business needs. 
-- 🏛️ Creating **robust software architecture** and **cloud solutions**.
-- 💡 Digging deep into data to pull out valuable **insights**.
-- 🚀 Optimizing **product development** through data-driven experimentation.
-- 🌱 Spreading the **innovation** with the power of AI and data-driven decision-making. 
+## Now
 
-## 🧭 Things I care about
+At **Electrolux Group** I build and run:
 
-- 🔬 Evaluation that tells us whether an AI system actually works
-- 🛠️ ML platforms that make the right path the easy path
-- 🧪 Experimentation infrastructure that helps teams learn instead of guess
-- 🧱 Boringly reliable services: observable, fault-tolerant, and simple to operate
-- 💡 Starting with the user and the problem, then choosing the technology
+- an **agentic knowledge assistant** used by 6,000 employees a month, in any language. I own its
+  evaluation: relevance, retrieval recall, groundedness and latency.
+- a **feedback-triage agent** that replays flagged questions, checks the evidence and routes each
+  case to an owner.
+- the **MLOps layer** for a production supply-chain optimizer.
 
-## 🧰 Toolbox
+## Before
 
-`Python` · `Go` · `SQL` · `Kubernetes` · `Kubeflow Pipelines` · `Terraform` · `Azure` · `Google Cloud`
-· `BigQuery` · `Redis` · `MLflow` · `RAG` · `LLM evaluation` · `A/B testing` · `multi-armed bandits`
+Almost five years at **Traveloka** in Jakarta, leading the experimentation platform used by 30+
+product teams for 800+ experiments a year.
 
-## 🌍 Let's connect
+- Modernized the platform: cloud cost down 95% year over year, API latency down 90%.
+- Built a Go assignment service that held 50K+ requests per second in a 30-minute load test, with
+  P95 under 100 ms.
+- Built the ML serving engine and SDK behind about 40 model deployments, Kubeflow training pipelines,
+  and a metric layer with 100+ reusable metrics.
 
-If you're working on production AI, ML platforms, experimentation, or evaluation, I'd enjoy the
-conversation.
+Before that: a Spotify internship on bandits for notifications, an MSc in machine learning at KTH,
+and electrical engineering in Bandung, mostly spent on robots and drones.
 
+## Toolbox
 
-[![Linkedin Badge](https://img.shields.io/badge/-fadhilmch-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fadhilmch/)](https://www.linkedin.com/in/fadhilmch/)
-[![GitHub Fadhilmch](https://img.shields.io/github/followers/fadhilmch?label=follow&style=social)](https://github.com/fadhilmch)
-[![Instagram Badge](https://img.shields.io/badge/-fadhilmch-DD0031?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/fadhilmch/)](https://www.linkedin.com/in/fadhilmch/)
-![Twitter Follow](https://img.shields.io/twitter/follow/boltzmannmach?style=social)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fadhil.mochammad1095@gmail.com)](mailto:fadhil.mochammad1095@gmail.com)
+`Python` · `Go` · `SQL` · `Kubernetes` · `Kubeflow` · `Terraform` · `Azure` · `Google Cloud` ·
+`BigQuery` · `Redis` · `MLflow` · `RAG` · `LLM evaluation` · `A/B testing` · `bandits`
 
+## Say hello
+
+Happy to talk about AI in production, evaluation or experimentation. Off the clock I take photos,
+make music, and treat coffee and cooking as small experiments ☕
+
+[Website](https://fadhilmch.github.io) · [LinkedIn](https://www.linkedin.com/in/fadhilmch/) · [Email](mailto:fadhil.mochammad1095@gmail.com)
