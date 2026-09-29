@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi, I'm Fadhil 👋</h1>
   <p><strong>Machine learning engineer · AI agents · ML platforms · experimentation</strong></p>
-  <p>Stockholm · originally from Indonesia 🇮🇩 · <a href="https://fadhilmch.github.io">fadhilmch.github.io</a></p>
+  <p>Stockholm 🇸🇪 · originally from Indonesia 🇮🇩 · <a href="https://fadhilmch.github.io">fadhilmch.github.io</a></p>
 </div>
 
 I like the part of machine learning that starts after the demo: making the system useful,
@@ -28,38 +28,27 @@ class Fadhil(MachineLearningEngineer):
         return self.learn(error)  # production is where the interesting bugs live
 ```
 
-## Now
+## What I'm curious about
 
-At **Electrolux Group** I build and run:
-
-- an **agentic knowledge assistant** used by 6,000 employees a month, in any language. I own its
-  evaluation: relevance, retrieval recall, groundedness and latency.
-- a **feedback-triage agent** that replays flagged questions, checks the evidence and routes each
-  case to an owner.
-- the **MLOps layer** for a production supply-chain optimizer.
-
-## Before
-
-Almost five years at **Traveloka** in Jakarta, leading the experimentation platform used by 30+
-product teams for 800+ experiments a year.
-
-- Modernized the platform: cloud cost down 95% year over year, API latency down 90%.
-- Built a Go assignment service that held 50K+ requests per second in a 30-minute load test, with
-  P95 under 100 ms.
-- Built the ML serving engine and SDK behind about 40 model deployments, Kubeflow training pipelines,
-  and a metric layer with 100+ reusable metrics.
-
-Before that: a Spotify internship on bandits for notifications, an MSc in machine learning at KTH,
-and electrical engineering in Bandung, mostly spent on robots and drones.
+- How agents coordinate, and how to evaluate them honestly
+- Evaluation that shows whether an AI system actually works
+- ML platforms that make the right path the easy path
+- Experiments that help teams learn instead of guess
+- Boringly reliable services: observable, fault-tolerant, simple to operate
+- Starting with the user and the problem, then choosing the technology
 
 ## Toolbox
 
 `Python` · `Go` · `SQL` · `Kubernetes` · `Kubeflow` · `Terraform` · `Azure` · `Google Cloud` ·
 `BigQuery` · `Redis` · `MLflow` · `RAG` · `LLM evaluation` · `A/B testing` · `bandits`
 
+## Off the clock
+
+I take photos, make music, design things now and then, and treat coffee and cooking as small
+experiments ☕
+
 ## Say hello
 
-Happy to talk about AI in production, evaluation or experimentation. Off the clock I take photos,
-make music, and treat coffee and cooking as small experiments ☕
+Happy to talk about agents, evaluation or experimentation.
 
 [Website](https://fadhilmch.github.io) · [LinkedIn](https://www.linkedin.com/in/fadhilmch/) · [Email](mailto:fadhil.mochammad1095@gmail.com)
